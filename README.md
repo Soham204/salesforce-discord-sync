@@ -1,6 +1,8 @@
 # Salesforce to Discord Integration
 
 This project integrates **Salesforce** and **Discord** using **Node.js** as middleware. It allows users to create cases in Salesforce directly from Discord via a Slash Command. Additionally, the bot will send updates to Discord when the status of a Salesforce case is updated to `Closed`.
+## Screenshot
+<img width="1796" height="872" alt="image" src="https://github.com/user-attachments/assets/03212c12-0d08-4234-a127-3b1f12cd27f1" />
 
 ## Features
 - **Create Salesforce Case from Discord**: Use the `/createcase` Slash Command in Discord to create a new case in Salesforce with a custom description.
